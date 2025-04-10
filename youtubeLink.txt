@@ -3,8 +3,8 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
-https://www.youtube.com/watch?v=5yx6BWlEVcY
+TN || NOTICIAS || VIC
+https://www.youtube.com/watch?v=cb12KmMMDJA
 
 Avex J-Pop 24/7 || Avex.yt || Music
 https://www.youtube.com/watch?v=tr77RbnfYIU
